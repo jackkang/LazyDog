@@ -10,13 +10,13 @@
 
     <managed-bean>
         <managed-bean-name>registerBean</managed-bean-name>
-        <managed-bean-class>com.adobe.g11n.RegisterBean</managed-bean-class>
+        <managed-bean-class>com.lottery.RegisterBean</managed-bean-class>
         <managed-bean-scope>session</managed-bean-scope>
     </managed-bean>
     
     <managed-bean>
         <managed-bean-name>sessionBean</managed-bean-name>
-        <managed-bean-class>com.adobe.g11n.SessionBean</managed-bean-class>
+        <managed-bean-class>com.lottery.SessionBean</managed-bean-class>
         <managed-bean-scope>session</managed-bean-scope>
     </managed-bean>
     
