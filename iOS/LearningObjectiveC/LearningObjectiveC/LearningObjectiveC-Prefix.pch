@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LearningObjectiveC' target in the 'LearningObjectiveC' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
